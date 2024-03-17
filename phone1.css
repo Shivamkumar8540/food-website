@@ -1,0 +1,37 @@
+/* Negavitaion section */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    padding-bottom: 8px;
+}
+#logo {
+    margin: -52px 2px;
+}
+#logo ul li 
+/* Home section */
+#home{
+    height: 187px;
+}
+#home::before{
+    height: 400px;
+}
+#home p{
+    font-size: 13px;
+}
+/* utilty class */
+.h-primary{
+    font-size: 35px;
+}
+    
+/* Services */
+#services{
+    flex-direction: column;
+}
+/* client section */
+    #clients{
+        overflow: hidden;
+    }
+/* Contact section */
+
+/* Footer */
